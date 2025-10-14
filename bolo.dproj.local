@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/19 15:52:48.000.085,=F:\Unit3.pas</Transaction>
+    <Transaction>2024/08/19 15:58:56.000.296,=F:\Unit4.pas</Transaction>
+    <Transaction>2024/08/19 16:27:31.000.416,C:\Users\Usuario\Desktop\bolo\vendas_U.dfm=F:\Unit4.dfm</Transaction>
+    <Transaction>2024/08/19 16:27:31.000.416,C:\Users\Usuario\Desktop\bolo\vendas_U.pas=F:\Unit4.pas</Transaction>
+    <Transaction>2024/08/19 16:27:42.000.498,C:\Users\Usuario\Desktop\bolo\menu_U.dfm=F:\Unit3.dfm</Transaction>
+    <Transaction>2024/08/19 16:27:42.000.498,C:\Users\Usuario\Desktop\bolo\menu_U.pas=F:\Unit3.pas</Transaction>
+    <Transaction>2024/08/19 16:27:47.000.229,C:\Users\Usuario\Desktop\bolo\bolo.dproj=F:\Project3.dproj</Transaction>
+    <Transaction>2024/08/19 16:31:41.000.833,=C:\Users\Usuario\Desktop\bolo\Unit1.pas</Transaction>
+    <Transaction>2024/08/19 16:32:06.000.975,=C:\Users\Usuario\Desktop\bolo\Unit2.pas</Transaction>
+    <Transaction>2024/08/19 16:32:18.000.383,=C:\Users\Usuario\Desktop\bolo\Unit5.pas</Transaction>
+    <Transaction>2024/08/19 16:32:43.000.251,=C:\Users\Usuario\Desktop\bolo\Unit5.pas</Transaction>
+    <Transaction>2024/08/19 16:33:08.000.079,C:\Users\Usuario\Desktop\bolo\estoque_U.dfm=C:\Users\Usuario\Desktop\bolo\Unit1.dfm</Transaction>
+    <Transaction>2024/08/19 16:33:08.000.079,C:\Users\Usuario\Desktop\bolo\estoque_U.pas=C:\Users\Usuario\Desktop\bolo\Unit1.pas</Transaction>
+    <Transaction>2024/08/19 16:33:24.000.339,C:\Users\Usuario\Desktop\bolo\funcionario_U.dfm=C:\Users\Usuario\Desktop\bolo\Unit5.dfm</Transaction>
+    <Transaction>2024/08/19 16:33:24.000.339,C:\Users\Usuario\Desktop\bolo\funcionario_U.pas=C:\Users\Usuario\Desktop\bolo\Unit5.pas</Transaction>
+    <Transaction>2024/08/19 16:33:35.000.993,C:\Users\Usuario\Desktop\bolo\cliente_U.dfm=C:\Users\Usuario\Desktop\bolo\Unit2.dfm</Transaction>
+    <Transaction>2024/08/19 16:33:35.000.993,C:\Users\Usuario\Desktop\bolo\cliente_U.pas=C:\Users\Usuario\Desktop\bolo\Unit2.pas</Transaction>
+    <Transaction>2024/08/20 11:37:04.000.374,D:\boilo\bolo\estoque_U.dfm=D:\boilo\bolo\produtos_U.dfm</Transaction>
+    <Transaction>2024/08/20 11:37:04.000.374,D:\boilo\bolo\estoque_U.pas=D:\boilo\bolo\produtos_U.pas</Transaction>
+    <Transaction>2024/09/04 08:45:13.000.212,=D:\boilo\bolo\estoque_U.pas</Transaction>
+    <Transaction>2024/09/05 09:00:28.000.640,=D:\boilo\bolo\Unit1.pas</Transaction>
+    <Transaction>2024/09/05 09:18:08.000.820,D:\boilo\bolo\TLoginForm.dfm=D:\boilo\bolo\Unit1.dfm</Transaction>
+    <Transaction>2024/09/05 09:18:08.000.820,D:\boilo\bolo\TLoginForm.pas=D:\boilo\bolo\Unit1.pas</Transaction>
+    <Transaction>2024/09/05 09:22:38.000.775,D:\boilo\bolo\TLoginForm.pas=D:\boilo\bolo\login_U.pas</Transaction>
+    <Transaction>2024/09/05 09:22:38.000.775,D:\boilo\bolo\TLoginForm.dfm=D:\boilo\bolo\login_U.dfm</Transaction>
+    <Transaction>2024/09/10 10:32:44.000.881,=D:\boilo\bolo\Unit1.pas</Transaction>
+    <Transaction>2024/09/17 10:45:16.000.656,D:\bolo\caixa_U.pas=D:\bolo\Unit1.pas</Transaction>
+    <Transaction>2024/09/17 10:45:16.000.656,D:\bolo\caixa_U.dfm=D:\bolo\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
